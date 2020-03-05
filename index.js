@@ -45,7 +45,8 @@ function findTheCheese (foods) {
 
 function wordsWithB (words) {
  for(var i =0; i < words.length; i++){
-   return( words[i].includes('B') 
+   return( words[i].includes('B')
+   "bob"
  }
  
 }
