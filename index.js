@@ -42,3 +42,7 @@ function findTheCheese (foods) {
   }
 
 }
+
+function wordsWithB (words) {
+   if()
+}
