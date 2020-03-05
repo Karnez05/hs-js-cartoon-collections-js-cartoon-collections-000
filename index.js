@@ -3,7 +3,7 @@ function dwarfRollCall(dwarves) {
   for(var i = 0; i < dwarves.length; i++){
    str += (i + 1) + ". "+ dwarves[i] + " "
   }
-  console.log(str)
+  return(str)
 }
 
 
